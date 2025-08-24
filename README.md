@@ -29,13 +29,13 @@
 ## 📂 Repository Structure
 
 Guardian-SOS/
-│-- frontend/        # UI source code
-│-- backend/         # API & server logic
-│-- docs/            # Documentation & resources
-│-- assets/          # Images, logos, screenshots
-│-- .gitignore
-│-- LICENSE
-│-- README.md
+-│-- frontend/        # UI source code
+-│-- backend/         # API & server logic
+-│-- docs/            # Documentation & resources
+-│-- assets/          # Images, logos, screenshots
+-│-- .gitignore
+-│-- LICENSE
+-│-- README.md
 
 
 ---
