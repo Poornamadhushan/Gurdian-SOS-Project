@@ -1,5 +1,5 @@
 # Guardian SOS 🚨
-**Real-Time Location-Based Alert System for Housemaids**
+**Real-Time Location-Based Alert System for Housemaids **
 
 **Purpose:** Enhance the safety of housemaids working abroad by providing a reliable emergency alert system that sends real-time SOS notifications and live location to trusted contacts and embassy officials.  
 
