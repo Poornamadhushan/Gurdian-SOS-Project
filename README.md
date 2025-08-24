@@ -29,12 +29,11 @@
 ## 📂 Repository Structure
 
 Guardian-SOS/
-├─ android/ # Android Studio project (Java + XML)
-│ └─ app/
-│ └─ src/
-├─ docs/ # Project proposal, user guide, architecture diagrams
-├─ assets/ # Screenshots, icons, Figma exports
-├─ firebase/ # Example rules, sample seed data
-├─ .gitignore
-├─ LICENSE
-└─ README.md
+│-- frontend/        # UI source code
+│-- backend/         # API & server logic
+│-- docs/            # Documentation & resources
+│-- assets/          # Images, logos, screenshots
+│-- .gitignore
+│-- LICENSE
+│-- README.md
+
