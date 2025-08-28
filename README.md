@@ -44,7 +44,7 @@ Guardian-SOS/
 ### Prerequisites
 - Android Studio (latest stable).  
 - Java JDK (as required by Android Studio).  
-- A Google account for Firebase & Google Cloud (to enable Maps API).  
+- A Google account for Firebase & Google Cloud (to enable Maps API) .  
 - Device or emulator with Google Play services.
 
 ### Setup
